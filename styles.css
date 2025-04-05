@@ -82,6 +82,12 @@ footer {
     font-size: 0.9em;
 }
 
+
+img {
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+
 .menu {
     list-style: none;
 
