@@ -81,3 +81,8 @@ footer {
     margin-top: 20px;
     font-size: 0.9em;
 }
+
+.menu {
+    list-style: none;
+
+}
