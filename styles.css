@@ -1,21 +1,21 @@
 /* General Styles */
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Great Vibes', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fdfaf6;
+    background-color: #F0EAD2;
     color: #5a4a42;
     text-align: center;
 }
 
 h1, h2 {
-    font-family: 'Playfair Display', serif;
-    color: #6C584C;
+    font-family: 'Pacifico', serif;
+    color: #5a4a42;
 }
 
 /* Header */
 header {
-    background: #f5ebe0;
+    background: #DDE5B6;
     padding: 20px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -67,7 +67,7 @@ nav a:hover {
 }
 
 .btn:hover {
-    background: #5a4a42;
+    background: #F0EAD2;
 }
 
 /* Sections */
@@ -76,7 +76,7 @@ section {
 }
 
 footer {
-    background: #f5ebe0;
+    background: #DDE5B6;
     padding: 20px;
     margin-top: 20px;
     font-size: 0.9em;
